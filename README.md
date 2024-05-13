@@ -1,7 +1,8 @@
 # Chatbot IA Alura 🤖
 
-![Badge "status finalizado"](https://img.shields.io/badge/status_finalizado-success.svg)
-
+![Badge "sgoogle colab"](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Badge "gemini"](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff)
+![Badge "google cloud"](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 # Índice 
 
