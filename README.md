@@ -1,10 +1,7 @@
 # Chatbot IA Alura 🤖
 
-![chatbot_ia_alura](https://github.com/Rhuama/event-listener/assets/97490698/7ec2e385-206c-4507-a928-85f133007d75)
-
 ![Badge "status finalizado"](https://img.shields.io/badge/status_finalizado-success.svg)
 ![Badge "google"]https://img.shields.io/badge/google-colab
-
 
 
 # Índice 
@@ -38,6 +35,13 @@ Este projeto é resultado da imersão em Inteligência Artificial da Alura em pa
 # 📁 Acesso ao projeto
 
 O projeto está disponibilizado no Google Colab através do seguinte link: https://colab.research.google.com/github/jessicaalines/chatbot_ia_alura/blob/main/chatbot_IA_alura.ipynb
+
+![image](https://github.com/jessicaalines/chatbot_ia_alura/assets/97490698/dbe7e53d-b86e-4fe0-b2ab-b49cfd5dac3b)
+
+![image](https://github.com/jessicaalines/chatbot_ia_alura/assets/97490698/731dc9de-a628-4d0b-9d1c-d3002fb94f22)
+
+![image](https://github.com/jessicaalines/chatbot_ia_alura/assets/97490698/c131b331-a21b-42ab-bd23-ad4a0003abef)
+
 
 
 # Tecnologias utilizadas
