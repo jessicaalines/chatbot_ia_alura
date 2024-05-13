@@ -1,7 +1,6 @@
 # Chatbot IA Alura 🤖
 
 ![Badge "status finalizado"](https://img.shields.io/badge/status_finalizado-success.svg)
-![Badge "google"]https://img.shields.io/badge/google-colab
 
 
 # Índice 
@@ -53,7 +52,7 @@ O projeto está disponibilizado no Google Colab através do seguinte link: https
 
 # Autora
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/97490698?v=4" width=115><br><sub>Jessica Oliveira</sub>](https://github.com/jessicaalines) | 
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/97490698?v=4" width=115><br><sub>Jessica Oliveira</sub>](https://github.com/jessicaalines) 
 
 
 # Contato
